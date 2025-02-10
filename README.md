@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KogaCintado
-- 👀 I’m interested in AI and Mobile Apps
-- 🌱 I’m currently learning Flask
+- 👀 I’m interested in Machine Learning and creating software. 
+- 🌱 I’m currently learning C and improving my knowledge on Python.
 - 💞️ I’m looking to collaborate on different proyects, including games, AI and more.
 - 📫 How to reach me: jose.cintadopascual@gmail.com
 
